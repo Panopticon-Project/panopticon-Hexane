@@ -15,3 +15,5 @@ https://www.bleepingcomputer.com/news/security/iranian-state-hackers-use-upgrade
 https://www.clearskysec.com/siamesekitten/
 
 https://securityaffairs.co/wordpress/132164/apt/lyceum-apt-target-energy-dns-backdoor.html
+
+https://www.clearskysec.com/lyceum-suicide-drone/
