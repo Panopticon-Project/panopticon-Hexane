@@ -17,3 +17,5 @@ https://www.clearskysec.com/siamesekitten/
 https://securityaffairs.co/wordpress/132164/apt/lyceum-apt-target-energy-dns-backdoor.html
 
 https://www.clearskysec.com/lyceum-suicide-drone/
+
+https://ti.qianxin.com/blog/articles/the-lyceum-organization-uses-military-hotspot-events-as-bait-to-target-targeted-attacks-on-the-middle-east/
